@@ -1,7 +1,7 @@
 # ESP32 Korvo Audio & Video Streaming System 
 
 Only video relay system github link is https://github.com/Mavis-Technologies/Non-RTSP-Stream-Relay
-This server will help you implement audio from esp32.
+This server will help you implement vid/aud from esp32.
 ---
 
 
